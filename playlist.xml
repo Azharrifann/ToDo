@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ul>
-	<li data-thumb-source="content/thumbnails/hls-small.jpg" data-video-source="https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8" data-poster-source="content/posters/hls-poster.jpg" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	<li data-thumb-source="content/thumbnails/hls-small.jpg" data-video-source="content/videos/earth.mp4" data-poster-source="content/posters/mp4-poster.jpg,content/posters/mp4-poster-mobile.jpg" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
 	&lt;div&gt;
 		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Our amazing planet&lt;/p&gt;
 		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;Earth from space, we are lucky to be here.&lt;/p&gt;
